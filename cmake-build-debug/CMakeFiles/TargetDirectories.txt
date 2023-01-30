@@ -1,0 +1,5 @@
+C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/CMakeFiles/QT.dir
+C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/CMakeFiles/QT_autogen_timestamp_deps.dir
+C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/CMakeFiles/QT_autogen.dir

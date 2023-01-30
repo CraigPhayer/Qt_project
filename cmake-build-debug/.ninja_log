@@ -1,0 +1,13 @@
+# ninja log v5
+1	258	6967992027522886	QT_autogen/timestamp	28e6d5a3fd20acbd
+1	258	6967992027522886	QT_autogen/mocs_compilation.cpp	28e6d5a3fd20acbd
+1	258	6967992027522886	C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/QT_autogen/timestamp	28e6d5a3fd20acbd
+1	258	6967992027522886	C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/QT_autogen/mocs_compilation.cpp	28e6d5a3fd20acbd
+258	327	6967992029213272	CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.obj	6b303a5fa2f21ed0
+264	2339	6967992049327774	CMakeFiles/QT.dir/main.cpp.obj	bfb1f7770d63b240
+2344	2963	6967992051128185	QT.exe	eea177f31e9972a
+7	200	6968017679202430	QT_autogen/timestamp	28e6d5a3fd20acbd
+7	200	6968017679202430	QT_autogen/mocs_compilation.cpp	28e6d5a3fd20acbd
+7	200	6968017679202430	C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/QT_autogen/timestamp	28e6d5a3fd20acbd
+7	200	6968017679202430	C:/Users/sophi/OneDrive - University of Limerick/Uni stuff/C++/QT/cmake-build-debug/QT_autogen/mocs_compilation.cpp	28e6d5a3fd20acbd
+206	518	6968017682373147	CMakeFiles/QT.dir/main.cpp.obj	bfb1f7770d63b240
